@@ -1,5 +1,5 @@
 package com.svetliy.forecaster;
-
+//change git config user email for this app
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
